@@ -46,6 +46,6 @@ class Employee:CustomStringConvertible {
         else {return nil}
     }
     var description: String {
-        return "Employee Name :\(name) ID: \(id), Years Hired: \(yearsOnBoard)"
+        return "Employee Name: \(name) ID: \(id), Years Hired: \(yearsOnBoard)"
     }
 }
