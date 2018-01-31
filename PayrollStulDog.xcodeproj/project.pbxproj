@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		96461E442020A25500AC7C4A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96461E432020A25500AC7C4A /* main.swift */; };
+		96461E4B2020A37300AC7C4A /* Employee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96461E4A2020A37300AC7C4A /* Employee.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		96461E402020A25500AC7C4A /* PayrollStulDog */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PayrollStulDog; sourceTree = BUILT_PRODUCTS_DIR; };
 		96461E432020A25500AC7C4A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		96461E4A2020A37300AC7C4A /* Employee.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Employee.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				96461E432020A25500AC7C4A /* main.swift */,
+				96461E4A2020A37300AC7C4A /* Employee.swift */,
 			);
 			path = PayrollStulDog;
 			sourceTree = "<group>";
@@ -121,6 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				96461E442020A25500AC7C4A /* main.swift in Sources */,
+				96461E4B2020A37300AC7C4A /* Employee.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
